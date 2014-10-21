@@ -55,8 +55,7 @@
 .popupcontentpan .product-share img { margin-top: 6px; cursor: pointer; }
 .popupcontentpan .product-share .black-btn { padding: 1px 6px; }
 .sliderpan .new_tag { top: 0; }
-.amazingslider-nav-0 { left: 258px  !important; height: 85% !important; top:20px  !important; }
-.amazingslider-nav-1 { left: 258px  !important; height: 85% !important; top:20px  !important; }
+.navwrap { left: 258px  !important; height: 85% !important; top:20px  !important; }
 .nomarleft { margin-left: 0 !important; }
 .detailwrapper .amazingslider-nav-0 { left: -102px !important; height: 63% !important; }
 .detailwrapper .amazingslider-nav-1 { left: -102px !important; height: 63% !important; }

@@ -1,0 +1,8 @@
+.ie-fix #search_find .search_find_box .search_form form select { max-width: 50%; }
+.select_box { max-width: 55%; }
+.ie-fix #header .user .imgwraper img { width:40px;} 
+.ie-fix #header .user { max-width: 280px;}
+.ie-fix #header .search { margin-right:30px;}
+.ie-fix #header .user .imgwraper { max-width: 50px; min-height: 50px; }
+.ie-fix #header .user .user_detail { max-width: 140px; margin-right:20px;}
+.ie-fix .hover_box { right:auto; left:-360px;}
